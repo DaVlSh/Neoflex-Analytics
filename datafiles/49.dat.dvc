@@ -1,0 +1,5 @@
+outs:
+- md5: bbb83fc8ace1b7630a01cd3333f102b6
+  size: 61440
+  hash: md5
+  path: 49.dat
